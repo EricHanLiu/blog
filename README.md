@@ -2,8 +2,7 @@
 This is my blog project, created with the help of CodeIgniter for MVC structuring.
 
 ## Hosting
-Unfortunately, I am as of now unable to host this blog on GitHub Pages for 
-unknown reasons (perhaps compatibility issues with CodeIgniter projects?)
+Unfortunately, I am as of now unable to host this blog on GitHub Pages since I don't have a server to run the backend portion of this blog, but I plan on doing that with AWS soon.
 
 ## Languages
 This project was made with the use of Bootstrap, JQuery, MySQL, PHP, HTML, CSS, and Javascript.
